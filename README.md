@@ -3,6 +3,7 @@ Introducción al manejo de herramientas bioinformáticas para el análisis de da
 Facilitadores:
 
 PhD student, Jorge Agramont 
+
 PhD student Josué Mamani
 
 Objetivo:
