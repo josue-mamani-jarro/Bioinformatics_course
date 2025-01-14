@@ -3,6 +3,7 @@ Introducción al manejo de herramientas bioinformáticas para el análisis de da
 Facilitadores:
 
 PhD student, Jorge Agramont 
+
 PhD student Josué Mamani
 
 Objetivo:
@@ -33,6 +34,7 @@ Dia 1:
 •	Crear una cuenta en GitHub
 •	Uso de Git y GitHub para control de versiones
 •	GitHub y como clonar repositorios
+
 Dia 2:
 •	Introducción a Linux y Bash
 •	Comandos básicos y ejercicios
