@@ -1,8 +1,0 @@
-name: yaml
-channels:
-  - defaults
-  - conda-forge
-  - bioconda
-  - miniconda
-  - conda
-prefix: /Users/jarro/anaconda3/envs/yaml
